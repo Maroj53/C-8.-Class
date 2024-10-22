@@ -1,11 +1,11 @@
-namespace Triangle
+namespace ConsoleParallelogram
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             // Print message asking for input
-            Console.WriteLine("Enter the number of stars for the triangle's base:");
+            Console.WriteLine("Enter the number of stars for the parallelogram's base:");
 
             // Read user input and convert it to an integer
             string numberOfStarsUnconverted = Console.ReadLine();
